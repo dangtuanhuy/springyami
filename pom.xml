@@ -16,7 +16,6 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<maven-jar-plugin></maven-jar-plugin>
 	</properties>
 
 	<dependencies>
